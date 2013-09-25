@@ -13,6 +13,7 @@ Add the following directive to your Javascript manifest file (application.js):
     //= require angular-ng-grid-rails
 
 (Optional) require [AngularJS ng-grid plugins](https://github.com/angular-ui/ng-grid/tree/master/plugins) add the following directive to your Javascript manifest file (application.js):
+
     //= require angular-ng-grid-plugins-rails    
 
 ## Version

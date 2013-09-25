@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
 	s.name			= 'gookou_angular-ng-grid-rails'
 	s.version		= GookouAngularNgGrid::Rails::VERSION
 	s.date			= '2013-09-25'
-	s.summary		= 'angular-ng-grid plugins on Rails'
+	s.summary		= 'Angular-ng-grid on Rails'
 	s.description	= 'Injects angular-ng-grid js into your asset pipeline.'
 	s.authors		= ["Iniciontin Gookou"]
 	s.email			= 'iniciontingookou@gmail.com'
