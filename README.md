@@ -1,6 +1,6 @@
-# angular-ng-grid-rails
+# Gookou_angular-ng-grid-rails
 
-angular-ng-grid-rails wraps the [AngularJS ng-grid](https://github.com/angular-ui/ng-grid) component for use in Rails 3.1 and above. Assets will minify automatically during production.
+Gookou_angular-ng-grid-rails wraps the [AngularJS ng-grid](https://github.com/angular-ui/ng-grid) component for use in Rails 3.1 and above. Assets will minify automatically during production.
 
 ## Usage
 
